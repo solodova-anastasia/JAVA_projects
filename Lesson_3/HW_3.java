@@ -8,7 +8,7 @@ package HW_1;
 
 import java.util.*;
 
-public class HW_1 {
+public class HW_3 {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList(Arrays.asList(22, 23, 55, 44,  6, 9, 18, 77, 4, 37, 17, 3, 8));
         System.out.println("Исходный список:" + list);
